@@ -1,0 +1,33 @@
+{
+	"auto_complete": false,
+	"tab_completion": false,
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 17.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"jshint_options":
+	{
+		"browser": true,
+		"evil": true,
+		"laxcomma": true,
+		"regexdash": true,
+		"sub": true,
+		"trailing": true,
+		"wsh": true
+	},
+	"pep8_ignore":
+	[
+		"E501",
+		"W391",
+		"E302",
+		"E231"
+	],
+	"sublimelinter": "load-save",
+	"sublimelinter_gutter_marks": true,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
